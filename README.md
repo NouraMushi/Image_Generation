@@ -1,4 +1,4 @@
-# Image Generation and Translation Project 🌐
+# Image Generation and Captioning Project 🌐
 
 ## Overview ✨
 
@@ -12,7 +12,7 @@ The project aims to enhance creativity by using deep learning models to provide 
 
 ## Expected Outputs 📊
 
-- When an image is uploaded, the application generates a caption for the image in English📝.
+- When an image is uploaded, the application generates a caption for the image 📝.
 - The English caption is then translated into Arabic.
 - New images are generated based on the English caption using the Stable Diffusion model.
 - The user can select the number of images to generate, and the outputs include the generated images, the English caption, and the translated Arabic caption📸.
@@ -44,7 +44,8 @@ The project aims to enhance creativity by using deep learning models to provide 
 This project combines advanced machine learning techniques to facilitate image captioning, translation, and image generation. It aims to provide an intuitive interface for users to interact with these technologies, promoting accessibility and creativity in the realm of visual content. 
 
 **Access the Project**: 
-- Click on the following link to access the running Gradio interface: [Access the Project](#)
+- Click on the following link to access the running Gradio interface: [Access the Project](https://huggingface.co/spaces/1Noura/ImageGeneration)
+- Click on the following link to access the code with examples : [Access the Code](https://colab.research.google.com/drive/1kOyAqWbp5PnRfWbm7TTc0MqxxjhhE1sq#scrollTo=vsDIQIjc4oTi)
 
 ## 🎥 Explainer Video
 
